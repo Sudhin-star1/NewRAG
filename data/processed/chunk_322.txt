@@ -1,0 +1,17 @@
+Tools We Use
+There are lots of tools and platforms that we use to get our work done. The
+following living list is our attempt at capturing what we are using right now. Used by Most Everyone
+Slack
+For team chat. And sharing cat videos. Google Mail
+Our email platform. Google Calendar
+Our calendar platform. Google Drive (Documents, Sheets, Slides, etc...)
+For composition of and group collaboration on written materials. Google Hangouts
+For group video calls. When you create a new meeting in Google calendar, a
+video Hangout will be automatically created. GitHub
+Where we maintain some of our git-based work. Also, see Phabricator, below. Passpack
+For password storage. Please create your own Passpack account and connect
+with the main organization account. Any time you create an account relevant to
+our work, please share the password with the organization on Passpack. 1
+
+{'filename': 'tools.pdf', 'page_number': 1}
+

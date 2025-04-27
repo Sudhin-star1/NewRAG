@@ -1,0 +1,17 @@
+Twilio
+Our cloud service provider of telephony stuff. GoDaddy
+Domain registration. Namecheap
+Domain registration. SendGrid
+Outgoing email management. Used Mostly by Our Management and Operations Team
+Flow
+For management and operations task herding, including assignment and moni-
+toring. Also available delivery teams for product/project management purposes. Affinity
+Affinity is used as a place to store contacts, pending deals, and record communi-
+cation for fundraising purposes. Harvest
+At present, only used for invoice generation. Expensify
+How we organize our expense documentation and generate reimbursement re-
+quests. Mailchimp
+Our email campaign platform. 3
+
+{'filename': 'tools.pdf', 'page_number': 3}
+

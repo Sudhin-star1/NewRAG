@@ -1,0 +1,7 @@
+Where a
+payment is made, it should be surrendered to the Manager: Finance and Operations, who
+will lodge it to the GESCI account. Any non-cash benefit should be returned to the Manager
+Finance and Operations.  Subject to any rules which the CEO may determine, a GESCI staff member may accept a
+
+{'filename': 'policies2.pdf', 'page_number': 10}
+

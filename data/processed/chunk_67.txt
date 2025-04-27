@@ -1,0 +1,14 @@
+The salary that is paid will be the lowest point of the scale
+for the higher grade assumed unless this would mean no increase in salary, in which case
+the employee will be paid one increment (on the higher scale) above his/her normal salary. Because this payment is paid on a temporary basis it is not pensionable and does not accrue
+any other benefits. The Temporary Responsibility Allowance (TRA) is normally awarded for short periods
+only, (e.g. to cover a vacancy temporarily), not more than 6 months. However, in some
+instances (e.g. to cover a long-term sickness absence or maternity leave or to allow a
+department to defer a permanent reorganization or restructuring to a more opportune time)
+it may be necessary for the temporary appointment to continue beyond the short term. In
+all cases if the temporary appointment includes the incremental date for the postholder’s
+substantive post the employee will automatically receive the usual incremental rise in
+his/her salary whilst on the higher grade.
+
+{'filename': 'policies2.pdf', 'page_number': 26}
+

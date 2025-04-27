@@ -1,0 +1,16 @@
+1 1 . INFORMATION AND COMMUNICATION
+TECHNOLOGY POLICIES
+11.1Use of Company Computer
+Computers, computer files, e-mail, voice-mail, facsimile machines, software and Internet
+access (“The Company Computer and Phone Systems”) furnished to or made
+accessible to staff members are GESCI property and are intended for business use only. The Company’s Computer and Phone Systems usage may be monitored where reasonable
+concerns are raised. GESCI strives to maintain a professional workplace. GESCI is also committed to
+maintaining a workplace free of unlawful harassment or other forms of unlawful
+discrimination. Therefore, GESCI prohibits the use of The Company Computer and
+Phone Systems in ways that are disruptive, offensive to others, or harmful to morale. An employee leaving the organization should either return all equipment provided to the
+staff member by GESCI or if GESCI agrees may purchase it from Gaskin at an agreed
+residual value. 11.2 Responsibility for IT security/compliance
+Information regarding GESCI is highly valuable and needs to be closely safeguarded.
+
+{'filename': 'policies2.pdf', 'page_number': 74}
+

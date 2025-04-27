@@ -1,0 +1,14 @@
+Failure to observe GESCI IT policies and procedures could result in breach of
+confidentiality, thus posing a risk to our business activities and exposing the firm to risk
+of legal action. Care should be taken to ensure that information held on GESCI IT system
+is not lost, disclosed, modified without authorization or accessed by third parties. Sensitive data should be stored securely or destroyed after use to prevent recovery by
+unauthorized persons. 11.2.1 Protecting IT equipment from damage and theft
+It is important that staff exercise due care to ensure that GESCI’s IT equipment is looked
+after and is protected from physical damage or theft. Laptops and similar portable
+computer equipment have been issued to certain members of staff. These assets remain
+the property of GESCI, while the staff member has full responsibility for their security. The staff member generally has liability in the event of loss or damage, subject to any
+successful claim from GESCI’s insurers. Laptops should always be placed in a secure location overnight or when left for a long
+period of time.
+
+{'filename': 'policies2.pdf', 'page_number': 74}
+

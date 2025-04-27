@@ -1,0 +1,6 @@
+), email attachments from
+outside the firm and/or files down loaded via a modem should ensure that they have been
+anti-virus checked using approved versions anti-virus software before using.
+
+{'filename': 'policies2.pdf', 'page_number': 75}
+

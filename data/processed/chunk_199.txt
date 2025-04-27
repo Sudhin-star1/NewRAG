@@ -1,0 +1,7 @@
+11.3GESCI Telephone Policy
+11.3.1 Standard GESCI Telephone System
+Skype, ZOOM, WhatsApp as well as other apps can and should be use for voice calls. Calls should be PC based or through non-telecoms apps on mobile phones as far as
+possible to minimise costs.
+
+{'filename': 'policies2.pdf', 'page_number': 76}
+

@@ -1,0 +1,13 @@
+ Use or attempt to use any Confidential Information in any manner which may injure
+ or cause loss either directly or indirectly to GESCI or may be likely to do so or for any
+purpose other than in the discharge of the staff member’s duties to GESCI;
+ Sell or seek to sell to anyone Confidential Information; or
+ Obtain or seek to obtain any direct or indirect financial advantage from the disclosure of
+Confidential Information other than for the benefit of GESCI. These confidentiality obligations shall continue to apply after the termination of a staff
+member’s employment with GESCI for whatever reason without any time limit, but shall
+cease to apply to Confidential Information which is divulged pursuant to a lawful court order
+or is in the public domain otherwise than through unauthorized disclosure by a staff member
+or any other person.
+
+{'filename': 'policies2.pdf', 'page_number': 12}
+

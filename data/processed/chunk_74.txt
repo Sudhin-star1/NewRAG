@@ -1,0 +1,14 @@
+The application for reimbursement must be supported by an invoice
+from the health insurance provider and is effective only from the effective date of the staff
+appointment. GESCI Health insurance cover includes Inpatient, Outpatient, Maternity, Optical and
+Dental benefits. Staff will be required to familiarize themselves with the specified
+prevailing limits for each benefit that will apply to them and their eligible dependents. 4.4.3 Death and Disability Cover
+GESCI subscribes to a Death and Disability Scheme (“D&D Scheme”) to which all staff
+members are entitled to join, and during the term of their employment remain a member of,
+subject to meeting any prequalification conditions of the D&D Scheme. Under the D&D
+Scheme, GESCI covers the cost of death and disability insurance cover for the staff
+member alone. This scheme is implemented through Group Life Insurance (GL) General
+Personal Accident GPA/WIBA cover that provides for compensation to staff members
+
+{'filename': 'policies2.pdf', 'page_number': 28}
+

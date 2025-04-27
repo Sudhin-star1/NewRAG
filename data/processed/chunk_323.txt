@@ -1,0 +1,15 @@
+Used Mostly by Our Delivery Teams
+Phabricator
+The engineering team’s preferred software development platform. AirTable
+Great for organizing lots of data collaborative when a spreadsheet just won’t
+cut it. Workflowy
+For research management and collaboration. Wordpress
+For maintaining our organization’s web site. Rollbar
+Our exception monitoring and logging platform. CircleCI
+Our automated testing and deployment platform. Linode
+One of our cloud service providers. Amazon Web Services
+Another one of our cloud service providers. Google Cloud Platform
+Yet another cloud service provider. 2
+
+{'filename': 'tools.pdf', 'page_number': 2}
+

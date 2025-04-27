@@ -1,0 +1,8 @@
+Severance payments
+Staff members whose appointments are terminated on grounds of redundancy will be
+entitled to payments equal to all outstanding salary, pro rata salary for any accrued but
+not taken leave days and severance pay at the rate of at fifteen days’ pay for each
+completed year of service.
+
+{'filename': 'policies2.pdf', 'page_number': 70}
+

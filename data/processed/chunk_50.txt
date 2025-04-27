@@ -1,0 +1,6 @@
+GESCI will nominate/approve the medical
+practitioner and will pay for this medical test and report. No payment will be forthcoming
+for subsequent treatments or medical appliances recommended
+
+{'filename': 'policies2.pdf', 'page_number': 19}
+

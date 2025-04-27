@@ -1,0 +1,16 @@
+Care should be taken when moving equipment, as they contain sensitive components. Correct carrying cases, briefcases or other cases should be used. Laptops should never
+be left unattended in a car or should be kept out of sight and out of the reach of children
+when at home. Under no circumstances should a staff member lend a laptop to someone
+else unless such lending has been authorized by his/her Manager. 11.2.2Commitment to data security
+Staff members share responsibility with GESCI regarding data protection legislation and
+therefore must ensure that they keep abreast of and comply with any changes in GESCI’s
+IT policies. Failure to comply with these polices may pose a serious risk to business
+protection and may result in disciplinary action or dismissal. Management reserves the
+right to update and amend these policies in accordance with development in IT
+systems, processes and IT security. 11.2.3Theft or attempted theft
+Theft or loss of hardware and software must be reported immediately on discovery, or as
+soon as is reasonably practicable to the IT personnel giving full details of the theft
+and loss i.e.
+
+{'filename': 'policies2.pdf', 'page_number': 75}
+

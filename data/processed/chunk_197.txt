@@ -1,0 +1,15 @@
+11.2.7Electronic Mail (e-mail)
+All emails systems and communications made on the system remains the sole property
+of GESCI and consequently should generally only be used for business related purposes. GESCI reserves the right to inspect the system at any time. Staff members must ensure that they regularly delete mail that is not required from
+the system. Staff members’ network behaviour should reflect the standard professional
+conduct. GESCI’s electronic system should never be used to propagate, politicise,
+disseminate or participate in the propagation of any form of electronic chain letter,
+or any unlawful, harassing, threatening, obscene or sexually explicit message to anyone
+within GESCI or elsewhere. Staff members should also be wary about who is addressed in e-mails and should consider
+the appropriate audience before messages are sent out to “everyone in GESCI” or to
+external parties. 11.2.8Use of Internet
+When using the Internet, every staff member should always remember that Internet use
+leaves electronic tracks, which identify GESCI.
+
+{'filename': 'policies2.pdf', 'page_number': 76}
+

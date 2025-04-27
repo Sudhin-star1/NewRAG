@@ -1,0 +1,7 @@
+When developing your foundation’spolicies, these text boxes can be removed, unlessyou would
+like to include them as part of the rationale foreach of the policies. For some community foundations, the senior staff memberis the Executive Director (ED) and for others thetitle is
+Chief Executive Officer (CEO). For the purposes ofthis document, any reference to either of these positionswill be
+as ED/CEO. Policies and Procedures Template - Page4
+
+{'filename': 'policies.pdf', 'page_number': 4}
+

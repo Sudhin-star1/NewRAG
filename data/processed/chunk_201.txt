@@ -1,0 +1,13 @@
+The supplied Phone should by connecting to Skype via Wi-Fi whenever possible to save
+on operational costs. Roaming facilities will not be available on these phones. The phone
+remains the property of GESCI. An employee leaving the organization should either
+return the phone or may purchase it from GESCI at an agreed residual value. 11.3.4Use of the GESCI mobile Phone
+The mobile Phone is provided for business purposes. As such, all staff members assigned
+a mobile phone will be required to certify the monthly itemized bills and identify any
+personal calls. The staff member will reimburse GESCI for all personal calls. Alternatively, GESCI will deduct the cost of all personal calls directly from the staff
+member’s next salary. Employees are expected to keep the monthly cost of the phone to
+a minimum by using it in the optimum manner in accordance with the terms offered by
+the telephone provider.
+
+{'filename': 'policies2.pdf', 'page_number': 77}
+

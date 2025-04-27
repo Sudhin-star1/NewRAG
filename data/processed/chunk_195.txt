@@ -1,0 +1,14 @@
+place, time and other relevant details. 11.2.4Software
+Only approved, authorized and licensed software should be used on GESCI networks. Staff members may only use software on local area networks or on multiple machines
+according to the software license agreement. 11.2.5Password protection
+GESCI IT systems are password protected. Passwords are principle means of
+identifying a user and in the interest of data security, they must be carefully controlled. It is the staff member’s responsibility to ensure adherence to GESCI’s policies with
+regard to password security. If in any doubt, staff should contact their IT department. Passwords should be kept confidential and must be handed over at termination of
+employment for whatever reason. A staff member must not share user ID’s or passwords
+with anyone. 11.2.6Viruses
+Staff should be aware of the damage that computer viruses can do the business,
+if not managed properly. Therefore, before a staff member uses any removable media
+(i.e. flash drives or other devices attaching to computers etc.
+
+{'filename': 'policies2.pdf', 'page_number': 75}
+

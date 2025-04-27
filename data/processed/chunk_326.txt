@@ -1,0 +1,19 @@
+Policy Manual
+Last Updated: 2018-01-08
+Our Mission
+We serve those who serve the people in America’s legislatures. Vision
+To serve as a reliable product development partner for legislators who want to
+makesystemsofgovernancemoreopen, moreaccessible, andmoreeffective. Our
+productsareiterativelybuilttoaddressmeaningful,well-knownproblemsinnew,
+innovative ways and are focused intently on serving user needs over stakeholder
+interests. Values
+In our work, we will strive to uphold these values: - Open source first - Col-
+laborative - User driven - Inclusive design - Iterative development - Actionable
+problems - Well documented - Showing, not telling
+Creating a Safe, Productive Workplace
+Equal Employment, Non-Discrimination, and Reasonable Accommo-
+dation
+The OpenGov Foundation is committed to equal employment opportunity.
+
+{'filename': 'manual.pdf', 'page_number': 1}
+

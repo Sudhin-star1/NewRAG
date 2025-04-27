@@ -1,0 +1,5 @@
+ GESCI staff members should not accept special facilities or discounts on private purchases
+from suppliers with whom they have official dealings.
+
+{'filename': 'policies2.pdf', 'page_number': 9}
+

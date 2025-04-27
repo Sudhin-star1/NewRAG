@@ -1,0 +1,13 @@
+If a staff member hears the alarm the staff member should:
+ Switch off any equipment under the staff member’s control and leave the building
+by the nearest fire exit.  Not stop to collect personal belongings.  Once outside, not enter the building until the staff members are told it is safe to do
+so. Management will on occasion perform fire drills to ensure that procedures are known and
+followed in the event of a real fire. 8.4.3 Staff Security
+Each office should have restricted access to prevent unauthorised persons from entering the
+office. This restricted access should not impede staff in the event of a fire. 8.4.4 First Aid
+Each office should have free access to a first aid box. First aid boxes should be checked on
+a regular basis and shortages replaced. Staff members have an obligation to ensure that first
+aid boxes, like any safety equipment, are not tampered with.
+
+{'filename': 'policies2.pdf', 'page_number': 56}
+

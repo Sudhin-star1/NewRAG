@@ -1,0 +1,10 @@
+Examples of such violations are: unsafe working
+conditions, unfair disciplinary action (including employment termination), improper
+payment or calculation of benefits. 9.1.1 Procedure
+Staff members are encouraged to begin the grievance procedure by discussing the
+problem orally with their immediate Manager. The Manager should make a reasonable
+effort to resolve the issue expeditiously and in any event within 30 days of the issue being
+reported.
+
+{'filename': 'policies2.pdf', 'page_number': 59}
+

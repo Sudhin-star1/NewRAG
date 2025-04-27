@@ -1,0 +1,12 @@
+Uncertified sick leave
+A staff member may take uncertified sick leave for up to a total of seven working
+days in an annual cycle starting 1st January of any year, when incapacitated for the
+performance of his or her duties by illness or injury provided that the staff member
+does not take more than three consecutive days of uncertified sick leave. Part or all
+of this entitlement may be used to attend to family-related emergencies. Certified sick leave
+Sick leave taken by a staff member in excess of three consecutive working days at
+any time shall be required to produce a certificate of incapacity from a duly registered
+medical practitioner stating clearly the probable duration of absence from duty.
+
+{'filename': 'policies2.pdf', 'page_number': 35}
+

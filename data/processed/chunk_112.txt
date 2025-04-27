@@ -1,0 +1,6 @@
+No receipts are required for airfare booked by Finance and
+Administration team through a travel agent as travel receipt information will be supported
+by their invoice to GESCI. Where a receipt is missing, the employee should contact the
+
+{'filename': 'policies2.pdf', 'page_number': 42}
+

@@ -1,0 +1,37 @@
+TABLE 1- CLASSIFICATION OF ROLES AND REQUIREMENTS
+Role Academic Qualifications Relevant Management
+experience experience
+(minimum (if minimum
+years) years required)
+Chief Executive Advanced university degree (Masters or
+15 10
+Officer higher)
+Director of Advanced university degree (Masters or
+10 5
+Programmes higher)
+Programme Advanced university degree (Masters or
+7 4
+manager higher)
+Project Manager/ Advanced university degree (Masters or
+5 2
+Senior Specialist higher)
+Process Advanced university degree (Masters or
+2
+manager/Specialist higher)
+JPO Advanced university degree (Masters or
+1
+higher)
+Project Officer/ university degree
+5
+Analyst
+Assistant Project university degree
+5
+Officer
+Clerk/ support staff High-School Diploma 3
+The salary structure currently used will be subject to review by the Board on the
+recommendation of Management taking into account the financial strength of GESCI, the
+level of committed and duration of donor funding, the economic situation and yearly
+inflation rate and changes in the general cost of living.
+
+{'filename': 'policies2.pdf', 'page_number': 23}
+
