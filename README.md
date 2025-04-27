@@ -1,3 +1,3 @@
 # NewRAG
 
-[./demo.png](Application)
+![Application demo](./demo.png)
